@@ -2,10 +2,6 @@
 
 This project uses Exploratory Data Analysis (EDA) to detect the risk of heart disease based on various health factors.
 
-## Project Overview
-
-In this project, the goal was to identify key risk factors for heart disease (such as high cholesterol, age, and high blood pressure) and develop a model to predict the likelihood of heart disease occurrence.
-
 ## Key Steps Involved
 
 1. **Exploratory Data Analysis (EDA)**: 
