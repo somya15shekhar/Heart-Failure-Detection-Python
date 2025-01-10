@@ -1,6 +1,6 @@
 # Heart Disease Detection
 
-This project uses Exploratory Data Analysis (EDA) and machine learning techniques to detect and predict the risk of heart disease based on various health factors.
+This project uses Exploratory Data Analysis (EDA) to detect the risk of heart disease based on various health factors.
 
 ## Project Overview
 
