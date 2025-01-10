@@ -2,6 +2,21 @@
 
 This project uses Exploratory Data Analysis (EDA) to detect the risk of heart disease based on various health factors.
 
+## Dataset Overview
+
+1. **Age**: The age of the individual in years.
+2. **Sex**: Gender of the individual (M for Male, F for Female).
+3. **ChestPainType**: Type of chest pain the individual experiences (e.g., ATA - Atypical Angina).
+4. **RestingBP**: Resting blood pressure in mm Hg.
+5. **Cholesterol**: Serum cholesterol in mg/dl.
+6. **FastingBS**: Fasting blood sugar level (0 indicates less than 120 mg/dl, 1 indicates greater than 120 mg/dl).
+7. **RestingECG**: Resting electrocardiographic results (e.g., Normal, ST-T wave abnormality).
+8. **MaxHR**: Maximum heart rate achieved during exercise.
+9. **ExerciseAngina**: Whether the individual experiences angina (chest pain) during exercise (Y for Yes, N for No).
+10. **Oldpeak**: Depression of the ST segment, indicating a possible heart disease.
+11. **ST_Slope**: The slope of the peak exercise ST segment (e.g., Up, Flat, Down).
+12. **HeartDisease**: Target variable indicating if the individual has heart disease (0 for No, 1 for Yes).
+
 ## Key Steps Involved
 
 1. **Exploratory Data Analysis (EDA)**: 
